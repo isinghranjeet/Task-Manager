@@ -22,3 +22,15 @@ All data is stored in **LocalStorage**, so your tasks remain saved even after re
 
 ## 📂 Project Structure
 
+Task-Manager/
+│── index.html # Main HTML file with embedded CSS & JavaScript
+│── README.md # Project documentation
+
+
+---
+
+## 🛠️ Installation & Usage
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/task-manager.git
